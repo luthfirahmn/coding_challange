@@ -8,6 +8,7 @@
 3. Bootstrap 4
 4. Ion Auth
 5. HMVC
+6. PHP 7.4
 
 # Info Login
 Admin
