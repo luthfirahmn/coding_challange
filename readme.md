@@ -8,3 +8,15 @@
 3. Bootstrap 4
 4. Ion Auth
 5. HMVC
+
+# Info Login
+Admin
+
+username : admin
+password : password
+
+
+User
+
+username : user
+password : password
